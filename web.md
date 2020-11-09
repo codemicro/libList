@@ -8,7 +8,7 @@ See also: [bradtraversy/design-resources-for-developers](https://github.com/brad
 * [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - An unopinionated CSS framework for rapid UI development
 * [botoxparty/XP.css](https://github.com/botoxparty/XP.css) - Windows XP (and 98), but it's CSS
 
-### JS
+### JavaScript
 
 * [javascript-obfuscator/javascript-obfuscator](https://github.com/javascript-obfuscator/javascript-obfuscator) - A JS/Node.JS obfuscator
 * [turbolinks/turbolinks](https://github.com/turbolinks/turbolinks) - A tiny JS library that sits on top of an existing server-rendered application and replaces full pageloads with SPA-like partial pageloads. Instead of loading a page  from scratch, pages are loaded with AJAX, page contents are replaced,  and client-side navigation updates your URLs
