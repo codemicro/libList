@@ -12,6 +12,7 @@ See also: [avelino/awesome-go](https://github.com/avelino/awesome-go)
 
 ### Data
 
+* [go-bindata/go-bindata](https://github.com/go-bindata/go-bindata) - One of many things to embed arbitrary files into a Go binary
 * [tinylib/msgp](https://github.com/tinylib/msgp) - A [MessagePack](https://msgpack.org/) library for Go (it's like JSON, but fast and small!)
 
 ### Databases and SQL
