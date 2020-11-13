@@ -16,5 +16,6 @@ See also: [bradtraversy/design-resources-for-developers](https://github.com/brad
 
 ### Icons
 
+* [Heroicons](https://heroicons.com/) - Icons by the makers of Tailwind CSS
 * [edent/SuperTinyIcons](https://github.com/edent/SuperTinyIcons) - Web and platform logo icons that are all <= 1kB
 * [primer/octicons](https://github.com/primer/octicons) - Simple icons made by GitHub as part of the Primer design system
