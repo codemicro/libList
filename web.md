@@ -6,6 +6,7 @@ See also: [bradtraversy/design-resources-for-developers](https://github.com/brad
 
 * [primer/css](https://github.com/primer/css) - The Primer CSS design system, made and used by GitHub
 * [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - An unopinionated CSS framework for rapid UI development
+  * [Merak UI](https://merakiui.com/) ([Github](https://github.com/merakiui/merakiui)) - Simple and good looking Tailwind CSS components
 * [botoxparty/XP.css](https://github.com/botoxparty/XP.css) - Windows XP (and 98), but it's CSS
 
 ### JavaScript
