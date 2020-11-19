@@ -43,4 +43,4 @@ See also: [avelino/awesome-go](https://github.com/avelino/awesome-go)
 * [skwair/harmony](https://github.com/skwair/harmony) - WIP Discord API library
 * [gomodule/redigo](https://github.com/gomodule/redigo) - A Redis client for Go
 * [tebeka/selenium](https://github.com/tebeka/selenium) - Selenium/WebDriver client for Go
-
+* [hashicorp/go-multierror](https://github.com/hashicorp/go-multierror) - Multiple errors, AS ONE!
