@@ -39,6 +39,7 @@ See also: [avelino/awesome-go](https://github.com/avelino/awesome-go)
 
 * [logrusorgru/aurora](https://github.com/logrusorgru/aurora) - Console colours, but it's not a pain in the arse to use!
   * Yes, it does work on Windows (potentially with or without changes, depending on whatever version of Windows and what terminal you're using)
+* [fatih/color](https://github.com/fatih/color) - Console colours that's less simple but actually says it supports Windows.
 * [jordan-wright/email](https://github.com/jordan-wright/email) - Simple and flexible SMTP client for Go
 * [skwair/harmony](https://github.com/skwair/harmony) - WIP Discord API library
 * [gomodule/redigo](https://github.com/gomodule/redigo) - A Redis client for Go
