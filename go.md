@@ -6,6 +6,12 @@ See also: [avelino/awesome-go](https://github.com/avelino/awesome-go)
 
 * [dchest/captcha](https://github.com/dchest/captcha) - A CAPTCHA library that supports output to WAV and PNG formats. Includes the option to add a custom storage adapter
 
+### Automation 
+
+* [chromedp/chromedp] - A browser controller to drive Google Chrome with no external dependencies
+* [mxschmitt/playwright-go] - Microsoft's Playwright framework for Go.
+* [tebeka/selenium](https://github.com/tebeka/selenium) - You know what [Selenium](https://www.selenium.dev/) is.
+
 ### Configuration
 
 * [joho/godotenv](https://github.com/joho/godotenv) - `.env` loading and parsing (a port of the Ruby `dotenv` project)
@@ -62,5 +68,3 @@ See also: [avelino/awesome-go](https://github.com/avelino/awesome-go)
 * [jordan-wright/email](https://github.com/jordan-wright/email) - Simple and flexible SMTP client for Go
 * [skwair/harmony](https://github.com/skwair/harmony) - WIP Discord API library
 * [gomodule/redigo](https://github.com/gomodule/redigo) - A Redis client for Go
-* [tebeka/selenium](https://github.com/tebeka/selenium) - Selenium/WebDriver client for Go
-* [hashicorp/go-multierror](https://github.com/hashicorp/go-multierror) - Multiple errors, AS ONE!
