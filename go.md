@@ -8,8 +8,8 @@ See also: [avelino/awesome-go](https://github.com/avelino/awesome-go)
 
 ### Automation 
 
-* [chromedp/chromedp] - A browser controller to drive Google Chrome with no external dependencies
-* [mxschmitt/playwright-go] - Microsoft's Playwright framework for Go.
+* [chromedp/chromedp](https://github.com/chromedp/chromedp) - A browser controller to drive Google Chrome with no external dependencies
+* [mxschmitt/playwright-go](https://github.com/mxschmitt/playwright-go) - Microsoft's Playwright framework for Go.
 * [tebeka/selenium](https://github.com/tebeka/selenium) - You know what [Selenium](https://www.selenium.dev/) is.
 
 ### Configuration
