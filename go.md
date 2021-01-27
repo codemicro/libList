@@ -19,6 +19,7 @@ See also: [avelino/awesome-go](https://github.com/avelino/awesome-go)
 ### Data
 
 * [go-bindata/go-bindata](https://github.com/go-bindata/go-bindata) - One of many things to embed arbitrary files into a Go binary
+* [patrickmn/go-cache](https://github.com/patrickmn/go-cache) - Simple, thread safe, in-memory `map[string]interface{}` cache with expiration times
 * [wcharczuk/go-chart](https://github.com/wcharczuk/go-chart/) - A basic charting library, written in raw Go.
 * [go-echarts/go-echarts](https://github.com/go-echarts/go-echarts) - Generate charts as HTML and JS in Go
 * [mmcdole/gofeed](https://github.com/mmcdole/gofeed) - Parse RSS feeds in Go
