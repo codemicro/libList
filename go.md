@@ -13,13 +13,30 @@ See also: [avelino/awesome-go](https://github.com/avelino/awesome-go)
 ### Data
 
 * [go-bindata/go-bindata](https://github.com/go-bindata/go-bindata) - One of many things to embed arbitrary files into a Go binary
+* [wcharczuk/go-chart](https://github.com/wcharczuk/go-chart/) - A basic charting library, written in raw Go.
+* [go-echarts/go-echarts](https://github.com/go-echarts/go-echarts) - Generate charts as HTML and JS in Go
+* [mmcdole/gofeed](https://github.com/mmcdole/gofeed) - Parse RSS feeds in Go
 * [tinylib/msgp](https://github.com/tinylib/msgp) - A [MessagePack](https://msgpack.org/) library for Go (it's like JSON, but fast and small!)
 
 ### Databases and SQL
 
-* [go-echarts/go-echarts](https://github.com/go-echarts/go-echarts) - Generate charts in Go, which output to HTML and JS
 * [huandu/go-sqlbuilder](https://github.com/huandu/go-sqlbuilder) - A SQL string builder - a "zero config" alternative to a full fledged ORM, like GORM
 * [go-gorm/gorm](https://github.com/go-gorm/gorm) - It's an ORM, and it works pretty well
+* [go-reform/reform](https://github.com/go-reform/reform) - "A better ORM for Go" with concrete types and code generation
+
+### Error handling
+
+* [rotisserie/eris](https://github.com/rotisserie/eris) - Error creation, wrapping and stack traces
+* [rs/zerolog](https://github.com/rs/zerolog) - A zero allocation JSON error logger
+* [hashicorp/go-multierror](https://github.com/hashicorp/go-multierror) - Represent single errors as one!
+
+### Searching
+
+* [blevesearch/bleve](https://github.com/blevesearch/bleve) - A text indexing library
+
+### Testing 
+
+* [cweill/gotests](https://github.com/cweill/gotests) - Automatically generate Go test boilerplate from source code
 
 ### User interfaces
 
@@ -34,6 +51,8 @@ See also: [avelino/awesome-go](https://github.com/avelino/awesome-go)
 * [PuerkitoBio/goquery](https://github.com/PuerkitoBio/goquery) - HTML parsing library with a jQuery like interface
 * [parnurzeal/gorequest](https://github.com/parnurzeal/gorequest) - A HTTP request library
 * [valyala/quicktemplate](https://github.com/valyala/quicktemplate) - Lightning fast templating using code generation
+
+
 
 ### Misc.
 
