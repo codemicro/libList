@@ -2,6 +2,8 @@
 
 See also: [bradtraversy/design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers)
 
+* [mikecao/umami](https://github.com/mikecao/umami) - Simple, self-hosted analytics
+
 ### CSS
 
 * [primer/css](https://github.com/primer/css) - The Primer CSS design system, made and used by GitHub
