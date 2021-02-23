@@ -25,11 +25,12 @@ See also: [avelino/awesome-go](https://github.com/avelino/awesome-go)
 * [mmcdole/gofeed](https://github.com/mmcdole/gofeed) - Parse RSS feeds in Go
 * [tinylib/msgp](https://github.com/tinylib/msgp) - A [MessagePack](https://msgpack.org/) library for Go (it's like JSON, but fast and small!)
 
-### Databases and SQL
+### Data storage
 
 * [huandu/go-sqlbuilder](https://github.com/huandu/go-sqlbuilder) - A SQL string builder - a "zero config" alternative to a full fledged ORM, like GORM
 * [go-gorm/gorm](https://github.com/go-gorm/gorm) - It's an ORM, and it works pretty well
 * [go-reform/reform](https://github.com/go-reform/reform) - "A better ORM for Go" with concrete types and code generation
+* [C2FO/vfs](https://github.com/C2FO/vfs) - A file system abstraction library, to make dealing with S3, GCP or local file storage simple through a unified API.
 
 ### Error handling
 
