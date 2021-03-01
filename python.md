@@ -10,3 +10,4 @@
 * [google/python-fire](https://github.com/google/python-fire) - A library to generate CLIs from any Python object
 * [psf/requests](https://github.com/psf/requests) - What every HTTP library should be like
 * [willmcgugan/rich](https://github.com/willmcgugan/rich) - A library for rich text and pretty formatting in the terminal
+* [liiight/notifiers](https://github.com/liiight/notifiers) - Notifiers - the easy way to send notifications (especially email)
