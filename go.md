@@ -31,6 +31,7 @@ See also: [avelino/awesome-go](https://github.com/avelino/awesome-go)
 * [go-gorm/gorm](https://github.com/go-gorm/gorm) - It's an ORM, and it works pretty well
 * [go-reform/reform](https://github.com/go-reform/reform) - "A better ORM for Go" with concrete types and code generation
 * [C2FO/vfs](https://github.com/C2FO/vfs) - A file system abstraction library, to make dealing with S3, GCP or local file storage simple through a unified API.
+* [spf13/afero](https://github.com/spf13/afero) - Another, more popular, file system abstraction library without support for S3
 
 ### Error handling
 
