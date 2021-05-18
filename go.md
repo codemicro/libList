@@ -12,6 +12,10 @@ See also: [avelino/awesome-go](https://github.com/avelino/awesome-go)
 * [mxschmitt/playwright-go](https://github.com/mxschmitt/playwright-go) - Microsoft's Playwright framework for Go.
 * [tebeka/selenium](https://github.com/tebeka/selenium) - You know what [Selenium](https://www.selenium.dev/) is.
 
+### Code generation
+
+* [awalterschulze/goderive](https://github.com/awalterschulze/goderive) - Code generation for functional programming in Go (`map`, `reduce`, etc)
+
 ### Configuration
 
 * [joho/godotenv](https://github.com/joho/godotenv) - `.env` loading and parsing (a port of the Ruby `dotenv` project)
@@ -60,8 +64,6 @@ See also: [avelino/awesome-go](https://github.com/avelino/awesome-go)
 * [PuerkitoBio/goquery](https://github.com/PuerkitoBio/goquery) - HTML parsing library with a jQuery like interface
 * [parnurzeal/gorequest](https://github.com/parnurzeal/gorequest) - A HTTP request library
 * [valyala/quicktemplate](https://github.com/valyala/quicktemplate) - Lightning fast templating using code generation
-
-
 
 ### Misc.
 
