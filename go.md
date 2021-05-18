@@ -28,6 +28,7 @@ See also: [avelino/awesome-go](https://github.com/avelino/awesome-go)
 * [go-echarts/go-echarts](https://github.com/go-echarts/go-echarts) - Generate charts as HTML and JS in Go
 * [mmcdole/gofeed](https://github.com/mmcdole/gofeed) - Parse RSS feeds in Go
 * [tinylib/msgp](https://github.com/tinylib/msgp) - A [MessagePack](https://msgpack.org/) library for Go (it's like JSON, but fast and small!)
+* [gomodule/redigo](https://github.com/gomodule/redigo) - A Redis client for Go
 
 ### Data storage
 
@@ -72,5 +73,4 @@ See also: [avelino/awesome-go](https://github.com/avelino/awesome-go)
 * [fatih/color](https://github.com/fatih/color) - Console colours that's less simple but actually says it supports Windows.
 * [jordan-wright/email](https://github.com/jordan-wright/email) - Simple and flexible SMTP client for Go
 * [skwair/harmony](https://github.com/skwair/harmony) - WIP Discord API library
-* [gomodule/redigo](https://github.com/gomodule/redigo) - A Redis client for Go
 * [AlekSi/pointer](https://github.com/AlekSi/pointer) - You can't do `&"hello"` but you can do `pointer.ToString("hello")`
